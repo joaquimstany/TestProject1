@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using TestProject1.Models;
 
 namespace TestProject1.Controllers
-{
+
     public class HomeController : Controller
     {
         public IActionResult Index()
